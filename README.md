@@ -36,4 +36,4 @@ To deploy this project run the following in the ``` src ``` folder
 
 ## Contact 
 
-for data access contact me via [Mail][amirhossein.moallem2@unibo.it]
+for data access contact me via [Mail](amirhossein.moallem2@unibo.it)
